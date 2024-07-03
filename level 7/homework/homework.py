@@ -59,4 +59,4 @@ print('hello my name is'+ name + 'and my last name is' + last_name + 'im' + age 
 name=input('enter your name: ')
 greetingcard=input('enter your line here: ')
 
-print(greetingcard + 'from')
+print(greetingcard + " " 'from')
