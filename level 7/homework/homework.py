@@ -53,7 +53,7 @@ fav_car=input('enter your favourite car: ')
 fav_meal=input('enter your favourite meal:')
 fav_sport=input('enter your favourite sport: ') 
 
-print('hello my name is'+ name + 'and my last name is' + last_name + 'im' + age +'years old' + 'my favourite colour is' + fav_colour + 'i live in' + country + city + 'my favourite car is' + fav_car + 'my favlourite meal is' + fav_meal + 'and my favourite sports is' + fav_sport)
+print('hello my name is '+ name + 'and my last name is' + last_name + 'im' + age +'years old' + 'my favourite colour is' + fav_colour + 'i live in' + country + city + 'my favourite car is' + fav_car + 'my favlourite meal is' + fav_meal + 'and my favourite sports is' + fav_sport)
 
 
 name=input('enter your name: ')
